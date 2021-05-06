@@ -1,0 +1,10 @@
+	* Variables
+        Son los datos con los que vamos a trabajar en nuestros programas, cada dato debera tomar un valor y este valor puede ser o no modificado mas adelante
+	* Strings
+        Un string es todo lo que encerremos entre "" y hace referencia a un texto
+	* Funciones (argumentos, `return`)
+        Las funciones en programacion siempre llevan un argumento, es decir recibe un valor con el cual en el interior de la funcion va a poder trabajar, asi como recibe tambien es capaz de regresar un valor, a este valor se le conoce como, return
+	* Declaraciones `if`
+        Sirve para validar la veracidad de una condicion
+	* Valores booleanos (`true`, `false`)
+        Un valor booleano es aquel que solo puede contener dos datos: verdadero o falso, true or false, 1-0.
